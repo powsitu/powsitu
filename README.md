@@ -4,7 +4,7 @@ I'm Patrick, currently based in The Netherlands, I come from a small island in t
 
 I started coding at an early age with BASIC on an old Commodore 64 from my uncle. Later on he introduced me to Pascal and I also toyed around a bit with HTML, PHP, Python and Java.
 
-Constantly in a tutorial hell, I never made any real advance on this craftsmanship. Therefore, at the end of 2020, I decided to quit my job at Booking.com and use my savings in order for this aimless sailor to finally find a direction and embark towards his passion!
+Constantly in a tutorial hell, at the end of 2020, I decided to quit my job at Booking.com and use my savings in order for this aimless sailor to finally find a direction and embark towards his passion!
 
 To achieve my goal, I joined a coding bootcamp at [Codaisseur](https://codaisseur.com/) where I learned and practiced a lot using these languages and tools:
 
