@@ -33,5 +33,6 @@ To achieve my goal, I joined a coding bootcamp at [Codaisseur](https://codaisseu
 ## Feel free to connect with me!
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 📫 sendtopow@gmail.com
+:house: <a href="https://patrickoves.com" target="_blank"> https://patrickoves.com </a>
 
 [linkedin]: https://www.linkedin.com/in/patrick-oves-weiss/
